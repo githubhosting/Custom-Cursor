@@ -1,0 +1,19 @@
+body {
+  margin:0;
+  padding:0;
+  width:100%;
+  height:100%;
+  background:#111;
+  overflow:hidden;
+  cursor:pointer;
+}
+
+.p {
+  position:absolute;
+  top:-6px;
+  left:-3px;
+  width:10px;
+  height:10px;
+  border-radius:50%;
+  background:radial-gradient(rgba(255,255,255,.5),rgba(255,255,255,0));;
+}
