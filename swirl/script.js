@@ -62,9 +62,7 @@ var scketch = function (p) {
     }
   };
 
-  /*--
-      p5 framwork
-    ------------------------------------*/
+  /*--p5 framwork------------------------------------*/
   p.setup = function () {
     p.createCanvas(p.windowWidth, p.windowHeight);
     p.blendMode(p.ADD);
