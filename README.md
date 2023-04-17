@@ -8,7 +8,7 @@ This is a collection of cursor effects that I've found on the web. If you know o
 
 ## Neon Cursor - [Demo](https://githubhosting.github.io/Custom-Cursor/neon.html)
 
-## Swirl Cursor - [Demo](https://githubhosting.github.io/Custom-Cursor/swirl.html)
+## Smoke Cursor - [Demo](https://githubhosting.github.io/Custom-Cursor/smoke.html)
 
 ## Gooey Cursor - [Demo](https://githubhosting.github.io/Custom-Cursor/gooey.html)
 
